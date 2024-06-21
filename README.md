@@ -4,8 +4,8 @@
   </h3>
 </div>
 
-My name is Cauã, and I'm:
-I use windowns
+My name is Cauã, and I'm
+use windowns
 desenvolvedor iniciante
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linkedin,discord)](https://skillicons.dev)
